@@ -5,9 +5,9 @@
 2.使用gulp打包，支持動態CDN切換 & 版號控制機制
 
 3.默認使用以下套件
-  3.1: vuex, vue router
-  3.2: vux (https://doc.vux.li/zh-CN/components)
-  3.3: 阿里SVG (https://www.iconfont.cn/)
+3.1: vuex, vue router
+3.2: vux (https://doc.vux.li/zh-CN/components)
+3.3: 阿里SVG (https://www.iconfont.cn/)
 
 4.src\js\apiRetry.js 這個檔案室封裝api請求邏輯，其他專案可能不適用，必須視情況修改
 
